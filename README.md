@@ -14,13 +14,13 @@ The columns above was dropped beacuse of their large amount of missing values.
 
 ### Correlation analysis
 Correlation analysis was performed to identify features that had the strongest relationships with the target variable, SalePrice. The following features were highly correlated and selected for the prediction model:
-* Overall Qual: Correlation of 0.80.
-* Gr Liv Area: Correlation of 0.71.
-* Garage Cars: Correlation of 0.65.
-* Garage Area: Correlation of 0.64.
-* Total Bsmt SF: Correlation of 0.63.
-* 1st Flr SF: Correlation of 0.62.
-* Year Built: Correlation of 0.56.
+* Overall Qual: Correlation ≈ 0.80.
+* Gr Liv Area: Correlation ≈ 0.71.
+* Garage Cars: Correlation ≈ 0.65.
+* Garage Area: Correlation ≈ 0.64.
+* Total Bsmt SF: Correlation ≈ 0.63.
+* 1st Flr SF: Correlation ≈ 0.62.
+* Year Built: Correlation ≈ 0.56.
 
 ### Visualize the Correlation analysis data
 The data from the correlation analysis was visualized using scatterplot.
